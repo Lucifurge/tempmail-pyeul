@@ -23,4 +23,4 @@ pip install colorama
 
 
 Run 
-Python Main.py
+python Main.py
